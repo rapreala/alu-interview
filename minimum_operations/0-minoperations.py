@@ -2,7 +2,7 @@
 """
 Minimum Operations
 
-This module contains a function that calculates the fewest 
+This module contains a function that calculates the fewest
 number of operations needed to result in exactly n H characters.
 
 """
@@ -10,7 +10,7 @@ number of operations needed to result in exactly n H characters.
 
 def minOperations(n):
     """
-    Calculates the fewest number of operations 
+    Calculates the fewest number of operations
     needed to result in exactly n H characters.
 
     Args:
