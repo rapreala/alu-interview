@@ -3,8 +3,10 @@
 """
 0-pascal_triangle.py:
 
-Defines the pascal_triangle function that returns a list of lists of integers representing Pascal's triangle of n.
+Defines the pascal_triangle function that returns 
+a list of lists of integers representing Pascal's triangle of n.
 """
+
 
 def pascal_triangle(n):
     """
